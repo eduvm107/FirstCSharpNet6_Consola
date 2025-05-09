@@ -13,6 +13,8 @@ namespace FirstCSharpNet6
         public int telefono { get; set; }
         public bool estado { get; set; }
 
+
+
         // Constructor con parámetros
         public Personas(int dni, string nombre, int telefono, bool estado)
         {
